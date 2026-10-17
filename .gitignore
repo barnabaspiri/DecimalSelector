@@ -1,0 +1,9 @@
+# Build output, recreated by build.cmd
+build/
+dist/
+
+# Editor and OS clutter
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
